@@ -16,5 +16,12 @@ Raspwn OS is a GNU/Linux distro that uses a Raspberry Pi 2B or 3 to emulate a vu
 
 
 ## Useful references
-15 Vulnerable Sites To (Legally) Practice Your Hacking Skills
+#### 15 Vulnerable Sites To (Legally) Practice Your Hacking Skills
 https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/
+
+#### OWASP (Open Web Application Security Project)
+https://www.owasp.org
+
+#### Kali
+Penetration testing OS images
+https://www.kali.org/
