@@ -17,8 +17,8 @@ update-rc.d -f ssh remove
 update-rc.d -f ssh defaults
 systemctl enable ssh.service
 
-wget http://www.c-nergy.be/downloads/vnc-startup.zip
-unzip vnc-startup.zip
+# Copy the vnc-startup.sh file from this directory locally
+# that script will setup vnc server to start on boot
 chmod +x vnc-startup.sh
 ./vnc-startup.sh
 ```
